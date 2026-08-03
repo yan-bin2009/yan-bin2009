@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm lemon</h1>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yan-bin2009&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-bin2009&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
-</p>
 
 ## 🔭 我正在做
 - [PokuOS-Kernel](https://github.com/yan-bin2009/PokuOS-Kernel) — 操作系统内核开发
