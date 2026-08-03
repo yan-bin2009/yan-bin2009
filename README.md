@@ -21,6 +21,7 @@
 | 项目 | 描述 | 语言 |
 |------|------|------|
 | [PokuOS-Kernel](https://github.com/yan-bin2009/PokuOS-Kernel) | 操作系统内核 | C |
+| [tnex-linux](https://github.com/yan-bin2009/tnex-linux) | thajsks | - |
 
 ## 🛠️ Tech Stack
 
@@ -45,3 +46,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yan-bin2009/yan-bin2009/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/yan-bin2009/yan-bin2009/output/github-snake.svg" />
 </picture>
+
+## 📫 Contact
+
+- 📧 yan20095642558@163.com
