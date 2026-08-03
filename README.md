@@ -25,16 +25,6 @@
   <img src="https://skillicons.dev/icons?i=c,python,git,linux,vim,github&theme=dark" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yan-bin2009&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-bin2009&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ## 🐍 Contribution Snake
 
 <picture>
