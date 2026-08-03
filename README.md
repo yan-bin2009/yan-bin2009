@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+lemon;黑塔空间站;OS+Kernel+Developer;Arch+Linux+User" alt="Typing SVG" />
-</h1>
-
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-OS%20Kernel-FF6B6B?style=for-the-badge" />
