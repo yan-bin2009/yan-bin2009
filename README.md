@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm lemon</h1>
-<h3 align="center">转圈圈！</h3>
+<h3 align="center">喵喵喵？</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yan-bin2009&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
