@@ -2,17 +2,23 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  
-  workflow_dispatch:      
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate GitHub Contributions Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: yan-bin2009
           outputs: |
