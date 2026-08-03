@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**yan-bin2009/yan-bin2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm lemon</h1>
+<h3 align="center">转圈圈！</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yan-bin2009&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-bin2009&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+</p>
+
+## 🔭 我正在做
+- [PokuOS-Kernel](https://github.com/yan-bin2009/PokuOS-Kernel) — 操作系统内核开发
+
+## 🛠️ 技术栈
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 📫 联系我
+- 📧 yan20095642558@163.com
